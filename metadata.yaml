@@ -1,0 +1,30 @@
+_repo: The-Psychology-of-Beauty_3751
+creator:
+  author:
+    agent_name: Howes, Ethel Puffer
+    aliases:
+    - Puffer, Ethel D.
+    - Howes, Ethel Dench Puffer
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '1287'
+    url: http://www.gutenberg.org/2009/agents/1287
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Aesthetics'
+tableOfContents: Criticism and aesthetics -- The nature of beauty -- The aesthetic
+  repose -- The beauty of fine art; The beauty of visual form; Space composition among
+  the old masters -- The beauty of music -- The beauty of literature -- The nature
+  of the emotions of the drama -- The beauty of ideas.
+title: The Psychology of Beauty
+url: http://www.gutenberg.org/ebooks/3751

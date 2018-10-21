@@ -1,5 +1,5 @@
 _repo: The-Psychology-of-Beauty_3751
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'N'
 - !lcsh 'Aesthetics'
+- GITenberg
 tableOfContents: Criticism and aesthetics -- The nature of beauty -- The aesthetic
   repose -- The beauty of fine art; The beauty of visual form; Space composition among
   the old masters -- The beauty of music -- The beauty of literature -- The nature
